@@ -1,6 +1,6 @@
 import * as React from 'react'
 import {SchemaObject} from './schema-object'
-import {SchemaArray} from './schama-array'
+import {SchemaArray} from './schema-array'
 import {
     JsonSchemaType,
     JsonSchemaArray,
