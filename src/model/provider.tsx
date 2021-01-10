@@ -1,4 +1,4 @@
-import * as React from 'react'
+import React from 'react'
 import * as R from 'ramda'
 import {SchemaContext} from './context'
 import {PropertyType, getDefaultSchema, DataType} from '../utils'
